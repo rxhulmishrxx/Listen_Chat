@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "Poppins", serif;
 }
+
 header{
     position: relative;
     left: 0;
@@ -36,7 +37,7 @@ header h4{
 
 .intro-image {
   display: block;
-  width: 300px; /* Adjust size */
+  width: 100px; /* Adjust size */
   max-width: 100%; /* Responsive */
   margin: 0 auto; /* Center */
   opacity: 0;
